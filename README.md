@@ -8,6 +8,8 @@ javaの授業用リポジトリ
 
 #　javaの基本文法
 
+# おれは神です
+
 ```java
 class Main{
     public static void main(String args[]){
