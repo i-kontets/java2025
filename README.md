@@ -1,4 +1,6 @@
 # java2025
+;jbuiyiyhvbilyvliyhv 
+
 javaの授業用リポジトリ
 
 # これはh1です
