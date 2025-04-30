@@ -1,5 +1,6 @@
 # java2025
-;jbuiyiyhvbilyvliyhv 
+
+衝突実験
 
 javaの授業用リポジトリ
 
