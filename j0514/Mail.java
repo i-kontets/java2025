@@ -1,4 +1,4 @@
-package j0507;
+package j0514;
 
 import jakarta.mail.*;
 import jakarta.mail.internet.*;
